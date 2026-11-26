@@ -26,6 +26,7 @@ checksum = "cf8baf1c55e62ffcace7a9f06f4bd9cd3f0c4beb022d3b367256b91b87513d98"
 [[package]]
 name = "niri-ipc"
 version = "26.4.0+loom.1"
+source = "git+https://github.com/fram446742/loom-niri.git?branch=main#1f319275663ee24b1042828dc69a75c85d5ef24b"
 dependencies = [
  "serde",
  "serde_json",
